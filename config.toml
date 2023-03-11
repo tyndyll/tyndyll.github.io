@@ -1,4 +1,4 @@
-baseURL = 'http://tyndyll./github.io/'
+baseURL = 'https://tyndyll./github.io/'
 languageCode = 'en-gb'
 title = "Tyndyll's World of Adventure and Fun. Inc"
 theme = "paper"
