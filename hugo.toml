@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tyndyll.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = '/dev/tyndyll'
+theme = 'nostyleplease'
 
 
 [caches]
